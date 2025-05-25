@@ -22,12 +22,15 @@ CavaleirosDoZodiaco/
 ├── Services/
 │   └── HoroscopoService.cs            # Lógica para chamadas
 │
-├── Cliente/
-│   └── cliente.py                     # Script em Python que consome a API via terminal
 │
 ├── Usuarios.json                      # Armazena usuários cadastrados (plano e nickname)
 ├── appsettings.json                   # Configurações do projeto
 ├── Program.cs                         # Configuração e inicialização da aplicação
+│
+│
+│
+Cliente/
+   └── cliente.py                     # Script em Python que consome a API via terminal
 ```
 
 ---
@@ -56,7 +59,7 @@ cd CavaleirosDoZodiaco
 
 ### 3. Rodar o cliente Python
 
-- Abra o terminal na pasta `Cliente/`
+- Abra o terminal na pasta `cd ../Cliente`
 - Execute:
 ```bash
 python cliente.py
