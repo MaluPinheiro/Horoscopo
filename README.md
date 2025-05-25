@@ -33,6 +33,9 @@ Cliente/
    └── cliente.py                     # Script em Python que consome a API via terminal
 ```
 
+![image](https://github.com/user-attachments/assets/1164e497-ec9c-4bc3-aa83-8b7b61601835)
+
+
 ---
 
 ## ✅ Pré-requisitos
