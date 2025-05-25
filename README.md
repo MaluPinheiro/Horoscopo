@@ -1,6 +1,6 @@
 # 🔮 CavaleirosDoZodiaco – API de Horóscopo
 
-Este projeto é uma API ASP.NET Core que fornece previsões de horóscopo **diárias**, **semanais** e **mensais**, consumindo dados de uma API externa. Usuários podem se cadastrar com plano **básico** ou **avançado**, onde o plano avançado oferece informações extras.
+Este projeto é uma API ASP.NET Core que fornece previsões de horóscopo **diárias**, **semanais** e **mensais**, consumindo dados de uma API externa: `https://horoscope-app-api.vercel.app`. Usuários podem se cadastrar com plano **básico** ou **avançado**, onde o plano avançado oferece informações extras.
 
 ---
 
